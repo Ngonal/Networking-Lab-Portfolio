@@ -12,3 +12,8 @@ Hands-on lab portfolio showcasing practical experience in switching, routing, an
 | 3 - Network | [View Labs](Layer%203%20-%20Network) |
 | 4 - Transport | [View Labs](Layer%204%20-%20Transport) |
 | 5 - Application | [View Labs](Layer%205%20-%20Application) |
+
+
+| Layer | Packet Tracer | EVE-NG | GNS3 |
+|---|---|---|---|
+| 1 - Physical | [<img src="assets/packet-tracer-logo.png" width="30">](Layer%201%20-%20Physical) | [<img src="assets/eve-ng-logo.png" width="30">](Layer%201%20-%20Physical) | [<img src="assets/gns3-logo.png" width="30">](Layer%201%20-%20Physical) |
