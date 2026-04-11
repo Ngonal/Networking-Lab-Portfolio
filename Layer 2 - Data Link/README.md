@@ -6,6 +6,14 @@ Facilitates reliable node-to-node frame delivery within a single broadcast domai
 ## Overview
 The Data Link Layer provides node-to-node data transfer and handles error correction from the Physical Layer. In Ethernet networks, this involves MAC addressing, frame switching, and logical segmentation.
 
+# Labs
+<div align="center">
+
+| Name | Description | Simulator/Emulator | Type |
+|:---|:---|:---:|:---:|
+
+</div>
+
 ## Key Concepts Demonstrated
     -
 ## Common Commands

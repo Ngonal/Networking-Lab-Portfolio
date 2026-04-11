@@ -6,6 +6,14 @@ Provides logical addressing and path determination to route packets across inter
 ## Overview
 The Network Layer is responsible for logical addressing, path determination, and routing packets between different networks. This is where IPv4, IPv6, and routing protocols operate.
 
+# Labs
+<div align="center">
+
+| Name | Description | Simulator/Emulator | Type |
+|:---|:---|:---:|:---:|
+
+</div>
+
 ## Key Concepts Demonstrated
     -
 ## Common Commands

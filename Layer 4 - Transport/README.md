@@ -6,6 +6,14 @@ Manages end-to-end communication reliability and multiplexing through port-based
 ## Overview
 The Transport Layer provides end-to-end communication services, including reliability, flow control, and multiplexing through port numbers. This section focuses on traffic filtering and address translation.
 
+# Labs
+<div align="center">
+
+| Name | Description | Simulator/Emulator | Type |
+|:---|:---|:---:|:---:|
+
+</div>
+
 ## Key Concepts Demonstrated
     -
 ## Common Commands

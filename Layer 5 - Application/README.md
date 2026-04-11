@@ -6,6 +6,14 @@ Serves as the interface between user-facing software and the underlying network 
 ## Overview
 The Application Layer is the closest layer to the end user, providing network services directly to applications. This section covers essential infrastructure services that enable network usability and management.
 
+# Labs
+<div align="center">
+
+| Name | Description | Simulator/Emulator | Type |
+|:---|:---|:---:|:---:|
+
+</div>
+
 ## Key Concepts Demonstrated
     -
 ## Common Commands
