@@ -4,11 +4,11 @@ Two hosts are connected to a common Layer 2 device but exhibit no link-layer con
 
 ## Diagnosis Log
 
-<img src="Elements/Step1.png">
+<img src="Elements/Step0.png">
 
 | Step | Observation | Action Taken | Result | Image |
 |:---|:---|:---|:---|:---:| 
-| 1 | One cable is disconnected from `Fa0/1` | Reconnected cable to `Fa0/1` | No change; switch LEDs remain unilluminated | <img src="Elements/Step0.png"> |
+| 1 | One cable is disconnected from `Fa0/1` | Reconnected cable to `Fa0/1` | No change; switch LEDs remain unilluminated | <img src="Elements/Step1.png"> |
 | 2 | Switch power switch is in the **OFF** position | Toggled power switch to **ON** | Some LEDs illuminate; `Fa0/1` remains dark |
 | 3 | `Fa0/1` is administratively down | Issued `no shutdown` on interface | Port LED illuminates; link established |
 | 4 | Both hosts have link connectivity | Tested with `ping` | Communication successful |
