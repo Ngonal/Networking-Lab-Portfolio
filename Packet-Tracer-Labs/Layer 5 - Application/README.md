@@ -1,4 +1,4 @@
-DHCP Server and Relay configurations
-DNS configuration in Packet Tracer
-NTP and Syslog setup
-Basic HTTP/HTTPS connectivity tests
+# Layer 5 - Application
+
+## Overview
+The Application Layer is the closest layer to the end user, providing network services directly to applications. This section covers essential infrastructure services that enable network usability and management.

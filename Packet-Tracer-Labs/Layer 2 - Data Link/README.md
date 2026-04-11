@@ -1,5 +1,4 @@
-VLAN creation and assignment
-802.1Q Trunking / DTP
-Spanning Tree Protocol (STP / RSTP)
-EtherChannel (LACP / PAgP)
-MAC address table examination
+# Layer 2 - Data Link
+
+## Overview
+The Data Link Layer provides node-to-node data transfer and handles error correction from the Physical Layer. In Ethernet networks, this involves MAC addressing, frame switching, and logical segmentation.
