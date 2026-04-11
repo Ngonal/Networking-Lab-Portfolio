@@ -6,6 +6,15 @@ Defines the electrical, optical, and mechanical characteristics of the transmiss
 ## Overview
 The Physical Layer defines the electrical, mechanical, and procedural specifications for transmitting raw bits over a physical medium. This section focuses on hardware connectivity, signaling standards, and interface configuration.
 
+# Labs
+<div align="center">
+
+| Name | Description | Simulator/Emulator | Type |
+|:---|:---|:---|:---|
+| Unpowered Switch | Two computers are unable to communicate despite being connected to the same switch, the switch doesn't seem to have any light indicators that are lighting up. | [View Labs](Layer%205%20-%20Application) | Troubleshooting |
+
+</div>
+
 ## Key Concepts Demonstrated
     -
 ## Common Commands
