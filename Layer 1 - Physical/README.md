@@ -6,4 +6,9 @@ The Physical Layer defines the electrical, mechanical, and procedural specificat
 ## Key Concepts Demonstrated
     -
 ## Common Commands
+# Cisco IOS / IOS XE
+    -
+# Juniper Junos OS
+    -
+# Fortinet FortiOS
     -
