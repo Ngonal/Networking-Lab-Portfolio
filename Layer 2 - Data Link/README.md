@@ -15,14 +15,14 @@ The Data Link Layer provides node-to-node data transfer and handles error correc
 </div>
 
 ## Key Concepts Demonstrated
-    -
+- 
 ## Common Commands
 ### Cisco IOS / IOS XE
-    -
+- 
 ### Juniper Junos OS
-    -
+- 
 ### Fortinet FortiOS
-    -
+- 
 <p align="center">
   <a href="https://github.com/Ngonal/Computer-Networking-Lab-Portfolio/blob/main/README.md">🏠 Home</a> &nbsp;
 </p>
