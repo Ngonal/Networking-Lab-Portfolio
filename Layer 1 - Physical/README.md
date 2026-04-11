@@ -11,7 +11,7 @@ The Physical Layer defines the electrical, mechanical, and procedural specificat
 
 | Name | Description | Simulator/Emulator | Type |
 |:---|:---|:---|:---|
-| Unpowered Switch | Two computers are unable to communicate despite being connected to the same switch, the switch doesn't seem to have any light indicators that are lighting up. | <img src="README_Elements/Cisco-Packet-Tracer-logo.png" width="40"> | Troubleshooting |
+| Unpowered Switch | Two computers are unable to communicate despite being connected to the same switch, the switch doesn't seem to have any light indicators that are lighting up. | <img src="README%20Elements/Cisco-Packet-Tracer-logo.png" width="40"> | Troubleshooting |
 
 </div>
 
