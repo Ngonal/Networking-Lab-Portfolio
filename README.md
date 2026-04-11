@@ -4,6 +4,12 @@ Hands-on lab portfolio showcasing practical experience in switching, routing, an
 ![EVE-NG](https://img.shields.io/badge/EVE--NG-0052CC?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN3YxMGwxMCA1IDEwLTVWN2wtMTAtNXoiLz48L3N2Zz4=)
 ![GNS3](https://img.shields.io/badge/GNS3-000000?style=flat&logo=gns3&logoColor=white)
 ![CML](https://img.shields.io/badge/Cisco-Modeling%20Labs-1BA0D7?style=flat&logo=cisco&logoColor=white)
+
+| Layer | Labs |
+|---|---|
+| 1 - Physical | [![Packet Tracer](https://img.shields.io/badge/PT-1BA0D7?style=flat&logo=cisco)](Layer%201%20-%20Physical) [![EVE-NG](https://img.shields.io/badge/EVE-0052CC?style=flat)](Layer%201%20-%20Physical) |
+| 2 - Data Link | [![Packet Tracer](https://img.shields.io/badge/PT-1BA0D7?style=flat&logo=cisco)](Layer%202%20-%20Data%20Link) [![EVE-NG](https://img.shields.io/badge/EVE-0052CC?style=flat)](Layer%202%20-%20Data%20Link) |
+
 | Layer | Labs |
 |---|---|
 | 1 - Physical | [View Labs](Layer%201%20-%20Physical) |
