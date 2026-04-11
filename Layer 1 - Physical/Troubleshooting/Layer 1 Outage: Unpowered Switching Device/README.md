@@ -4,7 +4,7 @@ Two hosts are connected to a common Layer 2 device but exhibit no link-layer con
 
 ## Diagnosis Log
 
-<img src="Elements/Step0.png" style="border: 1px solid #ddd;">
+<img src="Elements/Step0.png" style="border: 5px solid #ddd;">
 
 | Step | Observation | Action Taken | Result | Image |
 |:---|:---|:---|:---|:---:| 
