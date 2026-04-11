@@ -1,7 +1,7 @@
 # Layer 5 - Application
 
 ## Core Function
-The Data that Software Applications will interact with, like a web browser displaying HTTPS data so that an end user may interact with the data through the GUI.
+Serves as the interface between user-facing software and the underlying network stack. It encodes, formats, and presents data in a human-readable or application-usable structure (e.g., rendering HTML/CSS, negotiating encryption via TLS, or resolving domain names via DNS). This layer enables end-user interaction with network resources through protocols that abstract the complexities of data transmission.
 
 ## Overview
 The Application Layer is the closest layer to the end user, providing network services directly to applications. This section covers essential infrastructure services that enable network usability and management.
