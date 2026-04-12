@@ -33,7 +33,7 @@ A range of simulators and emulators are valid options depending on lab complexit
 
 <div align="center">
 
-| Layer | Example | Labs |
+| Layer | Examples | Labs |
 |:---|:---|:---|
 | 5 - Application | HTTP, DNS, DHCP, SSH, FTP, SMTP, NTP, SNMP, Syslog | [View Labs](Layer%205%20-%20Application) |
 | 4 - Transport | TCP, UDP, Port Numbers, Flow Control, Error Recovery | [View Labs](Layer%204%20-%20Transport) |
