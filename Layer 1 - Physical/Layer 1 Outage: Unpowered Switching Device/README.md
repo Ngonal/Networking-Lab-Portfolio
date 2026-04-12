@@ -2,8 +2,8 @@
 
 ## Lab File
 <p align="center">
-  <a href="https://github.com/Ngonal/Computer-Networking-Lab-Portfolio/raw/main/Layer%201%20-%20Physical/Troubleshooting/Layer%201%20Outage%20Unpowered%20Switching%20Device/switch-lab.pkt">
-    <kbd>⬇️ Download .pkt Lab File</kbd>
+  <a href="https://github.com/Ngonal/Computer-Networking-Lab-Portfolio/raw/main/Layer%201%20-%20Physical/Layer%201%20Outage%20Unpowered%20Switching%20Device/switch-lab.pkt">
+    <kbd>⬇️ Download Lab File</kbd>
   </a>
 </p>
 
