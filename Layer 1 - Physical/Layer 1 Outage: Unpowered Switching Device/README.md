@@ -27,5 +27,9 @@ All three conditions required correction to restore full connectivity.
 
 <p align="center">
   <a href="https://github.com/Ngonal/Computer-Networking-Lab-Portfolio/blob/main/README.md">🏠 Home</a> &nbsp;|&nbsp;
-  <a href="../">📁 Layer 1 - Physical</a> &nbsp;
+  <a href="../">📁 Layer 1 - Physical</a> &nbsp; |&nbsp;
+  <a href="../../Layer 2 - Data Link/">📁 Layer 2 - Data Link</a> &nbsp; |&nbsp;
+  <a href="../../Layer 3 - Network/">📁 Layer 3 - Network</a> &nbsp; |&nbsp;
+  <a href="../../Layer 4 - Transport/">📁 Layer 4 - Transport</a> &nbsp; |&nbsp;
+  <a href="../../Layer 5 - Application/">📁 Layer 5 - Application</a> &nbsp;
 </p>
