@@ -14,7 +14,7 @@
 </table>
 
 <p align="center">
-  <sub>⚠️ The lab file is provided in its <b>initial state</b>. If you would like to complete the objectives, follow the log below.</sub>
+  <sub>⚠️ The lab file is provided in its <b>initial state</b>. You may complete the objectives by following the log below or by working toward the result on your own.</sub>
 </p>
 
 ## Scenario
