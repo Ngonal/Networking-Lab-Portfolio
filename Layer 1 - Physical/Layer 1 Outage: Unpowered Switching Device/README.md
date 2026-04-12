@@ -2,8 +2,9 @@
 
 ## Lab File
 <p align="center">
+  Lab:
   <a href="https://github.com/Ngonal/Networking-Lab-Portfolio/raw/main/Layer%201%20-%20Physical/Layer%201%20Outage:%20Unpowered%20Switching%20Device/Layer%201 Outage%20Unpowered%20Switching%20Device.pkt">
-    Lab: <kbd>⬇️ Download Lab File</kbd>
+    <kbd>⬇️ Download Lab File</kbd>
   </a>
 </p>
 
