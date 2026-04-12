@@ -29,17 +29,6 @@ A range of simulators and emulators are valid options depending on lab complexit
   </table>
 </p>
 
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center" onclick="window.open('https://www.netacad.com/courses/packet-tracer', '_blank'); return false;" style="cursor: pointer;">
-        <img src="README%20Elements/Cisco-Packet-Tracer-logo.png" width="40"><br>
-        Cisco Packet Tracer
-      </td>
-    </tr>
-  </table>
-</p>
-
 ---
 
 <div align="center">
