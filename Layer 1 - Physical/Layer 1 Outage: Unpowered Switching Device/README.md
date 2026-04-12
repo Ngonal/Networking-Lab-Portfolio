@@ -27,6 +27,6 @@ All three conditions required correction to restore full connectivity.
 
 <p align="center">
   <a href="https://github.com/Ngonal/Computer-Networking-Lab-Portfolio/blob/main/README.md">🏠 Home</a> &nbsp;|&nbsp;
-  <a href="../../">📁 Layer 1 - Physical</a> &nbsp;|&nbsp;
-  <a href="../">🔧 Troubleshooting</a> &nbsp;
+  <a href="../">📁 Layer 1 - Physical</a> &nbsp;|&nbsp;
+  <a href="./">🔧 Troubleshooting</a> &nbsp;
 </p>
