@@ -14,7 +14,7 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
       </div>
     </td>
     <td style="padding: 12px; vertical-align: top; background-color: #f6f8fa;">
-      <a href="/Layer%201%20-%20Physical/Outage-Unpowered-Switching-Device">
+      <a align="center" href="/Layer%201%20-%20Physical/Outage-Unpowered-Switching-Device">
         Outage: Unpowered Switching Device
       </a>
     </td>
