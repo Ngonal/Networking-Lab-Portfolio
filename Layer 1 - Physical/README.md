@@ -34,10 +34,12 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
     <td>Restored network connectivity through methodical Layer 1 diagnostics and interface state remediation.</td>
   </tr>
   <tr>
-    <td align="left" colspan="6" style="padding: 12px; background-color: #f6f8fa; border-top: 1px solid #d0d7de;">
-      <b>📋 Scenario:</b>
+     <td style="width: 100px; padding: 12px; vertical-align: top; font-weight: bold; border-right: 1px solid #d0d7de;">
+        📋 Scenario
+      </td>
+      <td style="padding: 12px; vertical-align: top;">
         Two hosts connected to a common Layer 2 device are unable to communicate with each other. The device exhibits no link-layer connectivity, and all interface LEDs on the switching device are dark—suggesting an absence of electrical power.
-    </td>
+      </td>
   </tr>
 </table>
 
