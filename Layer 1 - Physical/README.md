@@ -45,38 +45,6 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
   </tr>
 </table>
 
-<table align="center" style="width: 80%;">
-  <tr>
-    <th>Lab Name</th>
-    <th>Type</th>
-    <th>Technologies</th>
-    <th>Simulator</th>
-    <th>Vendors</th>
-    <th>Key Demonstrations</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="./Outage-Unpowered-Switching-Device">Outage: Unpowered Switching Device</a>
-    </td>
-    <td align="center">Troubleshooting</td>
-    <td>Physical Layer, Cabling, Interface State</td>
-    <td align="center"><img src="../README%20Elements/Cisco-Packet-Tracer-logo.png" width="24"></td>
-    <td align="center">Cisco</td>
-    <td>Restored network connectivity through methodical Layer 1 diagnostics and interface state remediation.</td>
-  </tr>
-  <tr>
-    <td colspan="6" style="padding: 12px; background-color: #f6f8fa; border-top: 1px solid #d0d7de;">
-      <b>📋 Scenario</b>
-      <ul style="margin: 8px 0 0 0; padding-left: 20px;">
-        <li>Two hosts attempting communications are connected to a common Layer 2 device.</li>
-        <li>The device exhibits no link-layer connectivity.</li>
-        <li>All interface LEDs on the switching device are dark, suggesting an absence of electrical power.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-
 
 ## Common Commands
 ### Cisco IOS / IOS XE
