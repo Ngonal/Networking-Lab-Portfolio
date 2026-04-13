@@ -20,8 +20,8 @@
 ## Log
 ### Initial State
 <table>
-  <tr>
-    <th align="center" width="70%" colspan="6" style="background-color: #eaeef2; border-bottom: 1px solid #d0d7de; text-align: left;">
+  <tr width="70%">
+    <th align="center" colspan="6" style="background-color: #eaeef2; border-bottom: 1px solid #d0d7de; text-align: left;">
       <img src="Elements/Step0.png" width="70%" border="1">
     </th>
   </tr>
