@@ -51,7 +51,7 @@ Transitions the user from `user EXEC` mode (the initial, limited-access CLI mode
 Enters `global configuration` mode from `privileged EXEC` mode, allowing the user to modify the device’s running configuration.
 - **`?`**  
 Provides context-sensitive help:
-  - When used on its own or after a command with a space (e.g., `?` or `show ?`), it displays available commands, subcommands, or arguments.
+  - When used on its own or after a command with a space (e.g., `?` or `show ?`), it displays available commands, subcommands, or arguments. **UPPERCASE** placeholders indicate a required value you must supply, **lowercase** keywords must be entered exactly as shown.
   - When used immediately after a partial command (e.g., `con?`), it attempts to show matching options.
   - In context-sensitive help, `<cr>` (carriage return) indicates that the command is complete and can be executed by pressing `Enter`. Additional arguments may still be available, but they are optional when `<cr>` is shown.
 - **`no`**  
