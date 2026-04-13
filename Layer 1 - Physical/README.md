@@ -14,7 +14,7 @@ The Physical Layer defines the electrical, mechanical, and procedural specificat
     <th>Lab Name</th>
     <th>Type</th>
     <th>Technologies</th>
-    <th>Simulator</th>
+    <th>Simulator/Emulator</th>
     <th>Vendors</th>
     <th>Key Demonstrations</th>
   </tr>
