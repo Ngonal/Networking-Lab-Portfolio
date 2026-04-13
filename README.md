@@ -50,12 +50,13 @@ Transitions the user from `user EXEC` mode (the initial mode when accessing the 
 - **`configure terminal`**  
 Enters `global configuration` mode from `privileged EXEC` mode, allowing the user to modify the device’s running configuration.
 - **`?`**  
-Provides context-sensitive help: When used after a command with a space (e.g., `show ?`), it displays available subcommands or arguments. When used immediately after a partial command (e.g., `con?`), it attempts to show matching options.
+Provides context-sensitive help: When used after a command with a space (e.g., `show ?`), it displays available subcommands or arguments. When used immediately after a partial command (e.g., `con?`), it attempts to show matching options. In context-sensitive help, `<cr>` (carriage return) indicates that the command is complete and can be executed by pressing `Enter`. Additional arguments may still be available, but they are optional when `<cr>` is shown.
 > 💡 **Quick Tip:**
 > - Press `TAB` to autocomplete a partially typed command or keyword.
 > - Use the `UP` and `DOWN` arrow keys to navigate through command history. Press `Enter` to execute a selected command..
 > - Press `Ctrl + A` to move the cursor to the beginning of the command line.
 > - Press `Ctrl + E` to move the cursor to the end of the command line.
+> - Prefix a command with `no` to negate or remove its effect. This is commonly used to disable features or delete configuration statements (e.g., `no shutdown`, `no ip address`).
 ### Juniper Junos OS
 - 
 ### Fortinet FortiOS
