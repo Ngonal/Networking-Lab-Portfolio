@@ -24,7 +24,7 @@
         <li>All interface LEDs on the switching device are dark, suggesting an absence of electrical power</li>
 </ul>
 
-## Log
+## 📖 Log
 ### Initial State
 <kbd>
   <img src="Elements/Step0.png">
