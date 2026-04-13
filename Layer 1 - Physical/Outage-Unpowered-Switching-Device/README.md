@@ -51,20 +51,16 @@
 > - If the link comes up → Original cable was faulty
 > - Link remains down → Investigate both the local port and the far-end device
 
-<p align="center">
-  <img src="Elements/Bonus1.png" width="70%" border="1">
-</p>
-
 <table>
   <tr >
     <th align="center" colspan="6" style="background-color: #eaeef2; border-bottom: 1px solid #d0d7de; text-align: left;">
       <img src="Elements/Bonus1.png" width="70%" border="1">
     </th>
-  </tr>
-<table>
-<p align="center">
+    <p align="center">
   <i>Example: Fa0/1 showing "down/down" status after issuing `no shutdown`</i>
 </p>
+  </tr>
+<table>
 
 ## Conclusion
 The root cause was a combination of Layer 1 failures:
