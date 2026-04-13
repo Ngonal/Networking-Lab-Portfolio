@@ -21,7 +21,7 @@
 ## Log
 ### Initial State
 <p align="center" width="800" >
-  <table align="center">
+  <table align="center" width="800">
     <tr width="800">
       <td align="center">
         <a href="https://www.netacad.com/resources/lab-downloads" target="_blank" rel="noopener noreferrer">
