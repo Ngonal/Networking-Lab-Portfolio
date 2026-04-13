@@ -35,7 +35,7 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
   </tr>
   <tr>
     <td align="left" colspan="6" style="padding: 12px; background-color: #f6f8fa; border-top: 1px solid #d0d7de;">
-      <b>📋 Scenario:</b>
+    <b>📋 Scenario:</b>
         Two hosts connected to a common Layer 2 device are unable to communicate with each other. The device exhibits no link-layer connectivity. All interface LEDs on the switching device are dark, suggesting an absence of electrical power.
     </td>
   </tr>
