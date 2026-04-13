@@ -60,22 +60,27 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
     </td>
   </tr>
 
+
+
     
   <tr>
     <th height="50" align="left" colspan="6"></th>
   </tr>
 
+
+
+
 <tr>
     <th align="left" colspan="6">
       <b>🖥 Lab Name:</b>
-      <a href="/Layer%201%20-%20Physical/Outage-Unpowered-Switching-Device">
-        Outage: Unpowered Switching Device
+      <a href="/Layer%201%20-%20Physical/Speed-Mismatch-Intermittent-Link-Flapping">
+        Speed Mismatch: Intermittent Link Flapping
       </a>
     </th>
   </tr>
 <tr>
     <th align="left" colspan="6">
-      <b>📋 Scenario:</b> Two hosts connected to a common Layer 2 device are unable to communicate with each other. The device exhibits no link-layer connectivity, and all interface LEDs on the switching device are dark—suggesting an absence of electrical power.
+      <b>📋 Scenario:</b> Following the installation of two new switches, the link between them intermittently drops and re-establishes. Users report sporadic connectivity loss between segments. Interface LEDs flicker or cycle through amber/green states. One switch interface is hard-coded to 100 Mbps while the neighboring interface attempts to auto-negotiate, resulting in an unstable physical link.
     </th>
 </tr>
   <tr>
@@ -100,7 +105,7 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
       Troubleshooting
     </td>
     <td>
-      Physical Layer, Cabling, Interface State
+      Ethernet Signaling, Auto-Negotiation, Interface Speed, Link Flapping, Physical Layer
     </td>
     <td align="center">
       <a href="https://www.netacad.com/resources/lab-downloads" target="_blank" rel="noopener noreferrer">
@@ -113,7 +118,7 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
       </a>
     </td>
     <td>
-      Restored network connectivity through methodical Layer 1 diagnostics.
+      Identified speed mismatch through interface status inspection; resolved by hard-coding matching speed settings on both ends to stabilize the physical link.
     </td>
   </tr>
 
