@@ -1,4 +1,4 @@
-# Layer 1 Outage: Unpowered Switching Device
+# Outage: Unpowered Switching Device
 
 ## Lab File
 <table align="center">
