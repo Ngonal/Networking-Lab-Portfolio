@@ -31,7 +31,7 @@ The Physical Layer defines the electrical, mechanical, and procedural specificat
     <th>Key Demonstrations</th>
   </tr>
   <tr>
-    <td>Layer 1 Outage: Unpowered Switching Device</td>
+    <td>[Layer 1 Outage: Unpowered Switching Device](/Layer%201%20-%20Physical/Layer%201%20Outage:%20Unpowered%20Switching%20Device)</td>
     <td>Troubleshooting</td>
     <td>Physical Layer, Cabling, Interface State</td>
     <td align="center"><img src="../README%20Elements/Cisco-Packet-Tracer-logo.png" width="40"></td>
