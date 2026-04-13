@@ -86,15 +86,15 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
   </tr>
   <tr>
     <td align="center">
-      <a href="/Layer%201%20-%20Physical/Outage-Unpowered-Switching-Device">
-        Outage: Unpowered Switching Device
+      <a href="/Layer%201%20-%20Physical/Speed-Mismatch-Intermittent-Link-Flapping">
+        Speed Mismatch: Intermittent Link Flapping
       </a>
     </td>
     <td align="center">
       Troubleshooting
     </td>
     <td>
-      Physical Layer, Cabling, Interface State
+      Ethernet Signaling, Auto-Negotiation, Interface Speed, Link Flapping, Physical Layer
     </td>
     <td align="center">
       <a href="https://www.netacad.com/resources/lab-downloads" target="_blank" rel="noopener noreferrer">
@@ -107,7 +107,7 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
       </a>
     </td>
     <td>
-      Restored network connectivity through methodical Layer 1 diagnostics.
+      Identified speed mismatch through interface status inspection; resolved by hard-coding matching speed settings on both ends to stabilize the physical link.
     </td>
   </tr>
 
