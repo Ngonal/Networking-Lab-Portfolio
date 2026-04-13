@@ -27,13 +27,13 @@
 ## 📖 Log
 ### Initial State
 <p align="center">
-  <img src="Elements/Step0.png" width="70%" border="1">
+  <kbd style="display: inline-block;">
+    <img src="Elements/Step0.png" width="80%">
+  </kbd>
 </p>
 
 <p align="center">
-  <kbd style="display: inline-block;">
-    <img src="Elements/Step0.png" width="70%">
-  </kbd>
+  <img src="Elements/Step0.png" width="70%" border="1">
 </p>
 
 ### Steps
