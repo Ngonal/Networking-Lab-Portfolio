@@ -49,9 +49,9 @@
 > - If the link comes up → Original cable was faulty
 > - Link remains down → Investigate both the local port and the far-end device
 
-<kbd>
-  <img src="Elements/Bonus1.png" border="1">
-</kbd>
+<p align="center">
+  <img src="Elements/Bonus1.png" width="70%" border="1">
+</p>
 
 <p align="center">
   <i>Example: Fa0/1 showing "down/down" status after issuing `no shutdown`</i>
