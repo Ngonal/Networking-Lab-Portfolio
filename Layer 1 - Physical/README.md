@@ -50,7 +50,7 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
   <tr>
     <td align="center">
       <a href="/Layer%201%20-%20Physical/Event-Slow-Network">
-        Outage: Unpowered Switching Device
+        Event: Slow Network
       </a>
     </td>
     <td align="center">Troubleshooting</td>
