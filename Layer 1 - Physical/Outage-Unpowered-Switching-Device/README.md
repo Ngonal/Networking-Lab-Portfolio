@@ -30,6 +30,12 @@
   <img src="Elements/Step0.png" width="70%">
 </kbd>
 
+<p align="center">
+  <kbd style="display: inline-block; width: 70%;">
+    <img src="Elements/Step0.png" width="100%">
+  </kbd>
+</p>
+
 ### Steps
 | Step | Observation | Action Taken | Result | Image |
 |:---:|:---|:---|:---|:---:| 
