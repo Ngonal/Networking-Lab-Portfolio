@@ -27,13 +27,7 @@
 ## 📖 Log
 ### Initial State
 <p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="Elements/Step0.png" width="70%">
-      </td>
-    </tr>
-  </table>
+  <img src="Elements/Step0.png" width="70%" border="1">
 </p>
 
 ### Steps
