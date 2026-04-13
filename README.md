@@ -64,7 +64,7 @@ Exits the current mode and returns to the previous mode.
 Displays operational and configuration information about the device.
 Commonly used in `privileged EXEC` mode to verify status, interfaces, routing, and the current configuration (e.g., `show running-config`, `show ip interface brief`).
 - **`write`**, **`write memory`**, **`copy running-config startup-config`**  
-Saves the `running-config` to the `startup-config`. All three commands perform the same function: copying the active (running) configuration in RAM to NVRAM so it is retained after a reboot.
+Saves the active `running-config` (in RAM) to the `startup-config` (in NVRAM). All three commands perform the same function: copying the active (running) configuration in RAM to NVRAM so it is retained after a reboot.
 > 💡 **Quick Tips:**
 > - The commands available and how you interact with the device’s operating system depend on the current CLI mode.
 > - Press `TAB` to autocomplete a partially typed command or keyword.
