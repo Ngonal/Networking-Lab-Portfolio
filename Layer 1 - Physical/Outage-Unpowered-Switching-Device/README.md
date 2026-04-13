@@ -31,19 +31,7 @@
 </kbd>
 
 <p align="center">
-  <kbd style="display: inline-block; width: 70%;">
-    <img src="Elements/Step0.png" width="100%">
-  </kbd>
-</p>
-
-<p align="center">
-  <table>
-    <tr>
-      <td style="border: 1px solid #d0d7de; border-radius: 6px; padding: 0;">
-        <img src="Elements/Step0.png" width="70%">
-      </td>
-    </tr>
-  </table>
+  <img src="Elements/Step0.png" width="70%" style="border: 1px solid #d0d7de; border-radius: 6px; padding: 5px;">
 </p>
 
 ### Steps
