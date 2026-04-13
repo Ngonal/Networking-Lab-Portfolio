@@ -10,7 +10,7 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
   <tr>
     <td style="width: 90px; padding: 12px; font-weight: bold; background-color: #eaeef2; border-right: 1px solid #d0d7de; white-space: nowrap;">
       <div align="center">
-      <b>📋 Lab Name:</b>
+      <b>📋 Lab_Name:</b>
       </div>
     </td>
     <td style="padding: 12px; vertical-align: top; background-color: #f6f8fa;">
