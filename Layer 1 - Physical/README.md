@@ -16,25 +16,34 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
     <th>📋 Scenario</th>
   </tr>
   <tr>
-    <td align="center">
-      <a href="/Layer%201%20-%20Physical/Outage-Unpowered-Switching-Device">
-        Outage: Unpowered Switching Device
-      </a>
-    </td>
-    <td align="center">Troubleshooting</td>
-    <td>Physical Layer, Cabling, Interface State</td>
-    <td align="center">
-      <a href="https://www.netacad.com/resources/lab-downloads" target="_blank" rel="noopener noreferrer">
-        <img src="../README%20Elements/Cisco-Packet-Tracer-logo.png" width="40">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.cisco.com/" target="_blank" rel="noopener noreferrer">
-        <img src="../README%20Elements/Cisco-logo.png" width="40">
-      </a>
-    </td>
-    <td>Restored network connectivity through methodical Layer 1 diagnostics.</td>
-    <td>Two hosts connected to a common Layer 2 device are unable to communicate with each other. The device exhibits no link-layer     connectivity, and all interface LEDs on the switching device are dark—suggesting an absence of electrical power.</td>
+  <td align="center">
+    <a href="/Layer%201%20-%20Physical/Outage-Unpowered-Switching-Device">
+      Outage: Unpowered Switching Device
+    </a>
+  </td>
+  <td align="center">
+    Troubleshooting
+  </td>
+  <td>Physical Layer, Cabling, Interface State</td>
+  <td align="center">
+    <a href="https://www.netacad.com/resources/lab-downloads" target="_blank" rel="noopener noreferrer">
+      <img src="../README%20Elements/Cisco-Packet-Tracer-logo.png" width="40">
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://www.cisco.com/" target="_blank" rel="noopener noreferrer">
+      <img src="../README%20Elements/Cisco-logo.png" width="40">
+    </a>
+  </td>
+  <td>
+    Restored network connectivity through methodical Layer 1 diagnostics.
+  </td>
+  <td>
+    Two hosts connected to a common Layer 2 device are unable to communicate with each other. The device exhibits no link-layer     connectivity, and all interface LEDs on the switching device are dark—suggesting an absence of electrical power.
+  </td>
+  <tr>
+    
+  </tr>
 </table>
 
 
