@@ -18,12 +18,13 @@
 </p>
 
 ## Scenario
-<ul style="margin: 8px 0 0 0; padding-left: 20px;">
-        <li>Two hosts connected to a common Layer 2 device are unable to communicate with each other</li>
-        <li>The device exhibits no link-layer connectivity</li>
-        <li>All interface LEDs on the switching device are dark, suggesting an absence of electrical power</li>
-</ul>
-
+<table>
+  <tr>
+    <th align="left" colspan="6" style="padding: 10px 12px; background-color: #eaeef2; border-bottom: 1px solid #d0d7de; text-align: left;">
+      <b>📋 Scenario:</b> Two hosts connected to a common Layer 2 device are unable to communicate with each other. The device exhibits no link-layer connectivity, and all interface LEDs on the switching device are dark—suggesting an absence of electrical power.
+    </th>
+  </tr>
+</table>
 ## Log
 ### Initial State
 <p align="center">
