@@ -1,4 +1,4 @@
-# Link Stability and Interface Configuration
+# Troubleshooting: Link Stability and Interface Configuration
 
 ## Lab File
 
