@@ -14,10 +14,10 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
       Name
     </th>
     <th>
-      Concepts
+      Type
     </th>
     <th>
-      Technologies
+      Concepts
     </th>
     <th>
       Simulator
@@ -69,10 +69,10 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
       Name
     </th>
     <th>
-      Concepts
+      Type
     </th>
     <th>
-      Technologies
+      Concepts
     </th>
     <th>
       Simulator
