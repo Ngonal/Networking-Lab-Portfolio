@@ -80,7 +80,7 @@ All three conditions required correction to restore full connectivity.
 > 💡 **Quick Tip(s):** A cable connects two devices. If the link doesn't come up despite a physical connection, the fault could be the cable, the local device, the remote device, or **any of their respective interfaces**. Swap with a known-good cable first:
 > - If the link comes up → Original cable was faulty
 > - Link remains down → Investigate both devices and their interfaces on each end
-> - Use a **TDR-enabled cable tester** to quickly check for shorts, opens, or miswires along the cable run—this can reveal faults on the far end without physically accessing it.
+> - Use a **TDR-enabled cable tester** to quickly check for shorts or opens along the cable run—this can reveal faults on the far end without physically accessing it.
 
 ---
 
