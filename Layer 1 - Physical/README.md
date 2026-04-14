@@ -39,7 +39,7 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
       Troubleshooting
     </td>
     <td>
-      Physical Troubleshooting, Fault Isolation, Bottom-Up Methodology, Administrative State
+      Power Verification, Cable Integrity, Administrative Status Validation
     </td>
     <td align="center">
       <a href="https://www.netacad.com/resources/lab-downloads" target="_blank" rel="noopener noreferrer">
@@ -87,7 +87,7 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
   <tr>
     <td align="center">
       <a href="/Layer%201%20-%20Physical/Link-Stability-and-Interface-Configuration">
-        Link Stability and Interface Configuration
+        Link Stability Assessment, Speed Negotiation Analysis, Configuration Consistency Validation
       </a>
     </td>
     <td>
