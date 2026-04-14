@@ -107,7 +107,7 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
       </a>
     </td>
     <td>
-      Resolved degraded network speeds and services by identifying and correcting a speed and duplex mismatch introduced during hardware replacement.
+      Resolved degraded network speeds and services by identifying and correcting a speed mismatch introduced during hardware replacement.
     </td>
   </tr>
 
