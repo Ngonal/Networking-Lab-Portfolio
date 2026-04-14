@@ -14,9 +14,6 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
       Name
     </th>
     <th>
-      Type
-    </th>
-    <th>
       Technologies
     </th>
     <th>
@@ -35,9 +32,6 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
       <a href="/Layer%201%20-%20Physical/Power-Cabling-and-Interface-State">
         Power, Cabling, and Interface State
       </a>
-    </td>
-    <td align="center">
-      Troubleshooting
     </td>
     <td>
       Cabling, Interface State
@@ -70,9 +64,6 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
       Name
     </th>
     <th>
-      Type
-    </th>
-    <th>
       Technologies
     </th>
     <th>
@@ -90,9 +81,6 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
       <a href="/Layer%201%20-%20Physical/Link-Stability-and-Interface-Configuration">
         Link Stability and Interface Configuration
       </a>
-    </td>
-    <td align="center">
-      Troubleshooting
     </td>
     <td>
       Ethernet Signaling, Auto-Negotiation, Interface Speed, Link Flapping
