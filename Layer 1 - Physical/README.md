@@ -108,6 +108,7 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
     </td>
     <td>
       Restored stable inter-switch connectivity by identifying and resolving a speed and duplex mismatch introduced during hardware replacement.
+    </td>
   </tr>
 
 
