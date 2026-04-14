@@ -107,7 +107,8 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
       </a>
     </td>
     <td>
-      Restored stable inter-switch connectivity through systematic interface diagnostics and configuration alignment.
+      <p><b>📋 Symptoms:</b> Intermittent link flapping, interface LEDs cycling amber/green, ~50% packet loss between segments following hardware replacement.</p>
+<p><b>🔍 Root Cause:</b> Mismatched interface speed and duplex settings introduced during hardware refresh; one side hard-coded, the other auto-negotiating.</p>
     </td>
   </tr>
 
