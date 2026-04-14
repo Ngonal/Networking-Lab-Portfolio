@@ -87,14 +87,14 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
   <tr>
     <td align="center">
       <a href="/Layer%201%20-%20Physical/Link-Stability-and-Interface-Configuration">
-        Link Stability Assessment, Speed Negotiation Analysis, Configuration Consistency Validation
+        Link Stability and Interface Configuration
       </a>
     </td>
     <td>
       Troubleshooting
     </td>
     <td>
-      Auto-Negotiation, Interface Speed, Configuration Consistency
+      Link Stability Assessment, Speed Negotiation Analysis, Configuration Consistency Validation
     </td>
     <td align="center">
       <a href="https://www.netacad.com/resources/lab-downloads" target="_blank" rel="noopener noreferrer">
