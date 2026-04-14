@@ -32,7 +32,7 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
   <tr>
     <td align="center">
       <a href="/Layer%201%20-%20Physical/Outage-Unpowered-Switching-Device">
-        Layer 1 Troubleshooting: Power, Cabling, and Interface State
+        Power, Cabling, and Interface State
       </a>
     </td>
     <td align="center">
@@ -87,7 +87,7 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
   <tr>
     <td align="center">
       <a href="/Layer%201%20-%20Physical/Speed-Mismatch-Intermittent-Link-Flapping">
-        Layer 1 Troubleshooting: Auto-Negotiation & Interface Configuration
+        Auto-Negotiation & Interface Configuration
       </a>
     </td>
     <td align="center">
