@@ -46,11 +46,11 @@
 | 3 | Both hosts are now able to communicate | Tested with `ping` via Windows Command Prompt | Communication successful | <img src="Elements/Step3.png"> |
 
 ### Conclusion
-The root cause was a combination of Layer 1 failures:
-1. **Physical:** Disconnected cable and unpowered switch
-2. **Administrative:** Interface in `shutdown` state
+The root cause was a speed mismatch introduced during hardware replacement:
+1. **SW3 Gi1/0/1:** Hard-coded to 10 Mbps
+2. **SW4 Gi1/0/1:** Hard-coded to 100 Mbps
 
-All three conditions required correction to restore full connectivity.
+Setting `SW3 Gi1/0/1` to auto-negotiate allowed it to match `SW4`'s hard-coded speed, restoring the interswitch link. `SW4` was subsequently set to auto-negotiate to normalize configuration across both switches.
 
 ## Bonus Tips
 ### Tip #1 - The `show ip interface brief` command provides a quick health check of all interfaces. A status of **`down/down`** indicates a Layer 1 issue:
