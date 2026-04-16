@@ -123,7 +123,7 @@ Changes the administrative state of an interface. `shutdown` disables the interf
 - **`show ip interface brief`**  
 Displays a concise summary of all interfaces—including switchports, routed ports, and virtual interfaces—showing their IP addresses, administrative status (Layer 1), and protocol status (Layer 2). Useful for quickly assessing interface operational state regardless of interface type.
 - **`show interfaces status`**  
-Provides a high-level overview of all switchports, including VLAN membership, duplex and speed settings, link status, and whether the port is in an errdisabled state. Primarily used on access layer switches for Layer 1 and Layer 2 verification.
+Provides a high-level overview of all switchports, including VLAN membership, duplex and speed settings, link status, and whether the port is in an errdisabled state. Primarily used for Layer 1 and Layer 2 verification.
 ### Juniper Junos OS
 - 
 ### Fortinet FortiOS
