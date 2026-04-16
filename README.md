@@ -60,7 +60,7 @@ Commonly used in `privileged EXEC` mode to verify status, interfaces, routing, a
 >💡 **Quick Tip(s):** The commands available and how you interact with the device’s operating system depend on the current CLI mode. There are also a number of hotkeys and other shortcuts to better navigate the Cisco IOS / IOS XE CLI:
 > - Partially typed keywords are accepted if unambiguous (e.g., `en` for `enable`). The OS recognizes the unique abbreviation without requiring the full command.
 > - Press `TAB` to autocomplete a partially typed command or keyword. Only works if the abbreviation is unambiguous (e.g., `e` alone is ambiguous—could be `enable` or `exit`).
-> - Use the `Up` and `Down` arrow keys to navigate through command history. Press `ENTER` to execute a selected command.
+> - Use the `UP` and `DOWN` arrow keys to navigate through command history. Press `ENTER` to execute a selected command.
 > - Press `CTRL + A` to move the line cursor to the beginning of the command line.
 > - Press `CTRL + E` to move the line cursor to the end of the command line.
 ### Juniper Junos OS
