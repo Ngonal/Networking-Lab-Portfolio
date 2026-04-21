@@ -47,7 +47,7 @@
 ### Conclusion
 The root cause was a combination of Layer 1 failures:
 1. **Physical:** Disconnected cable and unpowered switch
-2. **Administrative:** Interface in `shutdown` state
+2. **Administrative:** `shutdown` applied to interface
 
 All three conditions required correction to restore full connectivity.
 
