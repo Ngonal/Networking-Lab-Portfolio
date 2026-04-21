@@ -74,14 +74,10 @@ All three conditions required correction to restore full connectivity.
 </p>
 
 > 💡 **Quick Tip(s):** A cable connects two devices. If the link doesn't come up, the fault could be the cable, the local device, the remote device, or **any of their respective interfaces**. Troubleshooting steps:
-> - If possible, use a **TDR** (Time Domain Reflectometer) first to check for shorts or opens along the cable run — this can reveal faults on the far end without physically accessing it — Most modern cable testers include built-in TDR functionality
-> - If the link comes up → Original cable was faulty
-> - Link remains down → Investigate both devices and their interfaces on each end
-
-> 💡 **Quick Tip(s):** A cable connects two devices. If the link doesn't come up, the fault could be the cable, the local device, the remote device, or **any of their respective interfaces**. Troubleshooting steps:
-> - If possible, use a **TDR** (Time Domain Reflectometer) first to check for shorts or opens along the cable run — this can reveal faults on the far end without physically accessing it — Most modern cable testers include built-in TDR functionality
->   - **If TDR shows a fault** (open, short, impedance mismatch) → Replace cable with a known-good cable
->   - **If TDR shows clean results** (proper termination, no faults detected) → Skip cable replacement and proceed to device/interface investigation
+> - **If you have a TDR (Time Domain Reflectometer) for copper or OTDR (Optical Time Domain Reflectometer) for fiber** — use it first to check for shorts, opens, or breaks along the cable run — this can reveal faults on the far end without physically accessing it — Most modern cable testers include built-in TDR/OTDR functionality
+>   - **If you don't have a TDR/OTDR** — skip directly to replacing the cable with a known-good cable
+>   - **If TDR/OTDR shows a fault** (open, short, impedance mismatch, fiber break) → Replace cable with a known-good cable
+>   - **If TDR/OTDR shows clean results** (proper termination, no faults detected) → Skip cable replacement and proceed to device/interface investigation
 > - **After cable replacement:**
 >   - Link comes up → Original cable was faulty (resolved)
 >   - Link remains down → Investigate both devices and their interfaces on each end (speed/duplex, disabled ports, configuration mismatches, hardware failure)
