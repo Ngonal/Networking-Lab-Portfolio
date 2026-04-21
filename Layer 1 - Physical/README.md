@@ -31,15 +31,15 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
   </tr>
   <tr>
     <td align="center">
-        <a href="/Layer%201%20-%20Physical/Physical-Connectivity-and-Interface-State">
-          Physical Connectivity and Interface State
+        <a href="/Layer%201%20-%20Physical/Physical-Connectivity-and-Interface-Status">
+          Physical Connectivity and Interface Status
         </a>
     </td>
     <td>
       Troubleshooting
     </td>
     <td>
-      Power State Verification, Cable Integrity Assessment, Interface State Validation
+      Power State Verification, Cable Integrity Assessment, Interface Status Validation
     </td>
     <td align="center">
       <a href="https://www.netacad.com/resources/lab-downloads" target="_blank" rel="noopener noreferrer">
