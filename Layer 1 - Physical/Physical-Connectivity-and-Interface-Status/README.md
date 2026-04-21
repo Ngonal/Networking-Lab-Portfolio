@@ -72,6 +72,7 @@ All three conditions required correction to restore full connectivity.
 </p>
 
 > 💡 **Quick Tip(s):** A cable connects two devices. If the link doesn't come up, the fault could be the cable or lack of, the local device, the remote device, or **any of their respective interfaces**. Troubleshooting steps:
+> - Ensure that there is a connected cable
 > - Ensure that the cable is firmly seated
 > - **If you have a TDR (Time Domain Reflectometer) for copper or OTDR (Optical Time Domain Reflectometer) for fiber** — use it first to check for shorts, opens, or breaks along the cable run — this can reveal faults on the far end without physically accessing it — Most modern cable testers include built-in TDR/OTDR functionality, and some switches/routers have built-in TDR/OTDR diagnostic commands
 >   - **If you don't have a TDR/OTDR** — skip directly to replacing the cable with a known-good cable
