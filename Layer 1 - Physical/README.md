@@ -120,7 +120,7 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
 ### Cisco IOS / IOS XE
 - **`shutdown`** — Changes the administrative state of an interface. `shutdown` disables the interface, placing it in `administratively down` status and preventing any Layer 1 or Layer 2 activity. `no shutdown` enables the interface, allowing it to attempt link establishment.
 - **`show ip interface brief`** — Displays a concise summary of all interfaces—including switchports, routed ports, and virtual interfaces—showing their IP addresses, administrative status (Layer 1), and protocol status (Layer 2). Useful for quickly assessing interface operational state regardless of interface type.
-- **`show interfaces status`** — Provides a high-level overview of all switchports, including VLAN membership, duplex and speed settings, link status, and whether the port is in an errdisabled state. Primarily used for Layer 1 and Layer 2 verification.
+- **`show interfaces status`** — Provides a high-level overview of all switchports, including VLAN membership, duplex and speed settings, and link status. Primarily used for Layer 1 and Layer 2 verification.
 ### Juniper Junos OS
 - 
 ### Fortinet FortiOS
