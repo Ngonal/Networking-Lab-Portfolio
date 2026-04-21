@@ -117,13 +117,17 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
 
 
 ## Common Commands
-### Cisco IOS / IOS XE
+Windows (CMD / Powershell CLI)
+- 
+Linux (Bash CLI)
+- 
+### Cisco (IOS / IOS XE CLI)
 - **`shutdown`** — Changes the administrative state of an interface. `shutdown` disables the interface, placing the link status into an `administratively down` state and preventing any Layer 1 or Layer 2 activity. `no shutdown` enables the interface, allowing it to attempt link establishment.
 - **`show ip interface brief`** — Displays a concise summary of all interfaces including switchports, routed ports, and virtual interfaces—showing their IP addresses, link status (Layer 1), and line protocol (Layer 2). Useful for quickly assessing interface status regardless of interface type.
 - **`show interfaces status`** — Provides a high-level overview of all switchports, including VLAN membership, duplex and speed settings, and link status.
-### Juniper Junos OS
+### Juniper (Junos OS CLI)
 - 
-### Fortinet FortiOS
+### Fortinet (FortiOS CLI)
 - 
 
 ---
