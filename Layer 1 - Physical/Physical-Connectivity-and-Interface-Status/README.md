@@ -73,7 +73,7 @@ All three conditions required correction to restore full connectivity.
   </table>
 </p>
 
-> 💡 **Quick Tip(s):** A cable connects two devices. If the link doesn't come up despite a firmly seated physical connection, the fault could be the cable, the local device, the remote device, or **any of their respective interfaces**. Swap with a known-good cable first:
+> 💡 **Quick Tip(s):** A cable connects two devices. If the link doesn't come up, the fault could be the cable, the local device, the remote device, or **any of their respective interfaces**. Swap with a known-good cable first:
 > - If the link comes up → Original cable was faulty
 > - Link remains down → Investigate both devices and their interfaces on each end
 
