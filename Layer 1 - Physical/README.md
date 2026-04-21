@@ -117,9 +117,9 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
 
 
 ## Common Commands
-Windows (CMD / Powershell CLI)
+### Windows (CMD / Powershell CLI)
 - 
-Linux (Bash CLI)
+### Linux (Bash CLI)
 - 
 ### Cisco (IOS / IOS XE CLI)
 - **`shutdown`** — Changes the administrative state of an interface. `shutdown` disables the interface, placing the link status into an `administratively down` state and preventing any Layer 1 or Layer 2 activity. `no shutdown` enables the interface, allowing it to attempt link establishment.
