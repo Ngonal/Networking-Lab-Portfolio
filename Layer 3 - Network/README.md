@@ -4,12 +4,56 @@
 The Network Layer (Layer 3) provides logical addressing and path determination to route packets across interconnected networks. It encapsulates segments into packets, appends source and destination IP addresses, and consults routing tables to determine the optimal forwarding path. This layer enables global reachability by abstracting the physical topology and facilitating network-to-network (inter-network) communication. This is where IPv4, IPv6, and routing protocols such as OSPF and BGP operate.
 
 # Labs
-<div align="center">
+<table>
+  
+  
+  
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      Type
+    </th>
+    <th>
+      Concepts
+    </th>
+    <th>
+      Environment
+    </th>
+    <th>
+      Vendors
+    </th>
+    <th>
+      Key Demonstrations
+    </th>
+  </tr>
+  <tr>
+    <td align="center">
+        <a href="">
+        </a>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td align="center">
+      <a href="">
+        <img src="" width="40">
+      </a>
+    </td>
+    <td align="center">
+      <a href="">
+        <img src="" width="40">
+      </a>
+    </td>
+    <td>
+    </td>
+  </tr>
+  
 
-| Name | Description | Simulator/Emulator | Type |
-|:---|:---|:---:|:---:|
 
-</div>
+</table>
 
 ## Common Commands
 ### Windows (CMD / Powershell CLI)
