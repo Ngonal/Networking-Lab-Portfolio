@@ -3,7 +3,7 @@ Hands-on IT lab portfolio showcasing full-stack technical proficiency, from phys
 
 Content is organized using the **`TCP/IP 5-layer Internet model`**, with each lab categorized by the highest layer it meaningfully interacts with. Labs are also aligned with the most common IT lifecycle scenarios, covering **Provisioning**, **Maintenance**, and **Troubleshooting**.
 
-A range of simulators and emulators are valid options depending on lab complexity, ensuring both accessibility and realistic network behavior. Emulator/Simulator software considered but not limited to: 
+A range of simulators, emulators, and hypervisors are valid options depending on lab complexity, ensuring both accessibility and realistic network behavior. Emulator/Simulator software considered but not limited to: 
 <p align="center">
   <table align="center">
     <tr>
