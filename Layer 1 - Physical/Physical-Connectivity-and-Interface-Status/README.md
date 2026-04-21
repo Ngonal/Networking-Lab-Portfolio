@@ -7,7 +7,7 @@
     <td align="center" style="padding: 15px;">
       <b>📦 Lab Environment</b><br>
       <sub>Cisco Packet Tracer</sub><br><br>
-      <a href="/Physical-Connectivity-and-Interface-Status.pkt">
+      <a href="Physical-Connectivity-and-Interface-Status.pkt">
         <kbd>⬇️ Download Lab File (.pkt)</kbd>
       </a>
     </td>
