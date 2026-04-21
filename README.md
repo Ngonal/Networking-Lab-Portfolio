@@ -44,11 +44,11 @@ A range of simulators and emulators are valid options depending on lab complexit
 </div>
 
 ## General Commands
-### Windows CLI
+### Windows CLI (CMD / Powershell)
 - 
-### Linux CLI
+### Linux CLI (Bash)
 - 
-### Cisco IOS / IOS XE CLI
+### Cisco CLI (IOS / IOS XE)
 - **`enable`** — Transitions the user from `user EXEC` mode (the initial, limited-access CLI mode) to `privileged EXEC` mode, granting access to advanced monitoring and configuration commands.
 - **`configure terminal`** — Enters `global configuration` mode from `privileged EXEC` mode, allowing the user to modify the device’s running configuration.
 - **`?`** — Provides context-sensitive help:
@@ -67,7 +67,7 @@ Commonly used in `privileged EXEC` mode to verify status, interfaces, routing, a
 > - Use the `UP` and `DOWN` arrow keys to navigate through command history. Press `ENTER` to execute a selected command.
 > - Press `CTRL + A` to move the line cursor to the beginning of the command line.
 > - Press `CTRL + E` to move the line cursor to the end of the command line.
-### Juniper Junos OS CLI
+### Juniper CLI (Junos OS)
 - 
-### Fortinet FortiOS CLI
+### Fortinet CLI (FortiOS)
 - 
