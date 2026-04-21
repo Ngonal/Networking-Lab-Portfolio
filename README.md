@@ -1,5 +1,5 @@
 # Information
-Hands-on networking lab portfolio showcasing practical experience in switching, routing, and security configurations. Labs progress from foundational setups to increasingly advanced implementations, emphasizing both depth and real-world applicability.
+Hands-on IT lab portfolio showcasing full-stack technical proficiency, from physical connectivity and network switching to scalable routing, secure transport, and enterprise application services. Projects illustrate a complete lifecycle of implementation, progressing from foundational configurations to complex, real-world solutions that secure and optimize the entire data path.
 
 Content is organized using the **`TCP/IP 5-layer Internet model`**, with each lab categorized by the highest layer it meaningfully interacts with. Labs are also aligned with the most common IT lifecycle scenarios, covering **Provisioning**, **Maintenance**, and **Troubleshooting**.
 
