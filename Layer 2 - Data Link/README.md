@@ -30,8 +30,7 @@ The Data Link Layer (Layer 2) facilitates reliable node-to-node (intra-network) 
   </tr>
   <tr>
     <td align="center">
-        <a href="/Layer%201%20-%20Physical/Physical-Connectivity-and-Interface-Status">
-          -
+        <a href="">
         </a>
     </td>
     <td>
@@ -41,17 +40,16 @@ The Data Link Layer (Layer 2) facilitates reliable node-to-node (intra-network) 
       -
     </td>
     <td align="center">
-      <a href="https://www.netacad.com/resources/lab-downloads" target="_blank" rel="noopener noreferrer">
-        <img src="../README%20Elements/Cisco-Packet-Tracer-logo.png" width="40">
+      <a href="">
+        <img src="" width="40">
       </a>
     </td>
     <td align="center">
-      <a href="https://www.cisco.com/" target="_blank" rel="noopener noreferrer">
-        <img src="../README%20Elements/Cisco-logo.png" width="40">
+      <a href="">
+        <img src="" width="40">
       </a>
     </td>
     <td>
-      -
     </td>
   </tr>
   
