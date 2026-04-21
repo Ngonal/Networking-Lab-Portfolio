@@ -12,11 +12,15 @@ The Data Link Layer (Layer 2) facilitates reliable node-to-node (intra-network) 
 </div>
 
 ## Common Commands
-### Cisco IOS / IOS XE
+### Windows (CMD / Powershell CLI)
 - 
-### Juniper Junos OS
+### Linux (Bash CLI)
 - 
-### Fortinet FortiOS
+### Cisco (IOS / IOS XE CLI)
+- 
+### Juniper (Junos OS CLI)
+- 
+### Fortinet (FortiOS CLI)
 - 
 
 ---
