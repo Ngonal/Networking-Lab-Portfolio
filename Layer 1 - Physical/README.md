@@ -39,7 +39,7 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
       Troubleshooting
     </td>
     <td>
-      Power State Verification, Cable Integrity Assessment, Link Status Validation
+      Power State Verification, Cable Integrity Assessment, Interface State Validation
     </td>
     <td align="center">
       <a href="https://www.netacad.com/resources/lab-downloads" target="_blank" rel="noopener noreferrer">
