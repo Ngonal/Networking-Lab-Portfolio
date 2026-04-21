@@ -40,7 +40,7 @@
 | Step | Observation | Action Taken | Result | Image |
 |:---:|:---|:---|:---|:---:| 
 | 1 | `SW1` is plugged into electrical outlet, verified electrical outlet is working using a known-good device (receptable tester/phone charger connected to phone), reconnected power cable to no effect, `SW1` power switch is in the **OFF** position | Toggled power switch to **ON** | `Fa0/2` LEDs illuminate; `Fa0/1` remains unlit | <img src="Elements/step1.png"> |
-| 2 | Local RJ45 connector is seated in `SW1`'s `Fa0/1`, TDR device indicates a short on the far end of the link, remote end found disconnected from `PC1`'s `Fa0`, the end user reports accidental disconnection of the RJ45 connector | Reconnected cable to `PC1`'s `Fa0` | No change; `Fa0/1` LEDs remain unilluminated | <img src="Elements/step2.png"> |
+| 2 | Local RJ45 connector is seated in `SW1`'s `Fa0/1`, TDR device indicates an open circuit on the far end of the link, remote end found disconnected from `PC1`'s `Fa0`, the end user reports accidental disconnection of the RJ45 connector | Reconnected cable to `PC1`'s `Fa0` | No change; `Fa0/1` LEDs remain unilluminated | <img src="Elements/step2.png"> |
 | 3 | Connecting to the device's CLI through the console port and using the `show ip interface brief` command to check interface state reveals that `Fa0/1` is administratively down | Issued `no shutdown` on interface | Port LED illuminates; link established | <img src="Elements/step3.png"> |
 | 4 | Both hosts appear to have link connectivity according to their blinking interface LEDs | Tested communication using `ping` via Windows Command Prompt | Communication successful — `write` executed to save configuration state on all updated devices. | <img src="Elements/step4.png"> |
 
