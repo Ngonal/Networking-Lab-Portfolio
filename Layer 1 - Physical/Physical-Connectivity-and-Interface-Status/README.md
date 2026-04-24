@@ -71,13 +71,18 @@ All three conditions required correction to restore full connectivity.
   </table>
 </p>
 
-> 💡 **Quick Tip(s):** A cable connects two devices. If the link doesn't come up, the fault could be the cable, the lack of a cable, the local device, the remote device, or **any of their respective interfaces**. Troubleshooting steps:
-> - **If you have a TDR (Time Domain Reflectometer) for copper or OTDR (Optical Time Domain Reflectometer) for fiber** — use it first to check for shorts or opens along the cable run — this can reveal faults on the far end without physically accessing it — Most modern cable testers include built-in TDR/OTDR functionality, and some switches/routers have built-in TDR/OTDR diagnostic commands
->   - **If TDR/OTDR shows a fault** (open, short) → Ensure the cable is firmly seated at both ends, otherwise, replace cable with a known-good cable
->   - **If TDR/OTDR shows clean results** (proper termination, no faults detected) → Skip cable replacement and proceed to device/interface investigation
-> - **After cable replacement:**
->   - Link comes up → Original cable was faulty (resolved)
->   - Link remains down → Investigate both devices and their interfaces on each end (speed/duplex, disabled ports, configuration mismatches, hardware failure)
+> 💡 **Quick Tip(s):**  When a link fails to establish, the fault lies in the cable, local device, remote device, or **any of their respective interfaces**. Start at Layer 1 and work up:
+**Without specialized test equipment:**
+> - Verify both cable ends are firmly seated
+> - If still down → Replace with known-good cable
+> - If link comes up → Original cable was faulty
+> - If link stays down → Investigate devices and/or interfaces (speed/duplex, admin status, config mismatches, hardware failure)
+**With TDR/OTDR (copper/fiber cable testers)**
+> - Run TDR/OTDR first to detect opens, shorts, or impedance faults
+>   - Most modern cable testers include built-in TDR/OTDR; some switches/routers have diagnostic commands
+> - If fault detected → Reseat both ends, then replace cable if issue persists
+> - If clean results (proper termination, no faults) → Skip cable replacement and go directly to device/interface investigation
+> - Device investigation: Check speed/duplex settings, admin status, configuration mismatches, and hardware failures on both ends
 
 ---
 
