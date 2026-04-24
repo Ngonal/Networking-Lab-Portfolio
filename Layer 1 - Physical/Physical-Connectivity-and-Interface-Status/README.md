@@ -85,7 +85,7 @@ All three conditions required correction to restore full connectivity.
 >   - If fault detected → Reseat both ends, then replace cable if issue persists
 >   - If clean results (proper termination, no faults) → Skip cable replacement and go directly to device/interface investigation
 >
-> **Device investigation:**
+> **Device/interface investigation:**
 > - Check speed/duplex settings, admin status, configuration mismatches, and hardware failures on both ends
 
 ---
