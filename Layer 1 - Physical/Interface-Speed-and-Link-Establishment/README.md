@@ -59,6 +59,6 @@ Setting `SW3` `Gi1/0/1`'s to auto-negotiate allowed it to match `SW4`'s hard-cod
 ---
 
 <p align="center">
-  <a href=".../README.md">🏠 Home</a> &nbsp;|&nbsp;
+  <a href="..../README.md">🏠 Home</a> &nbsp;|&nbsp;
   <a href="../">🔙 Return</a> &nbsp;
 </p>
