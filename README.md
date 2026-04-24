@@ -40,7 +40,7 @@ A mix of simulators, emulators, and hypervisors is used based on scenario comple
 <div align="center">
 
 | Layer | Devices | Protocols/Tech | Count | Example |
-|:---|:---|:---|:--:|:---|
+|:---|:---|:---|:--:|:--:|
 | 5 - Application | Servers, Desktops, Load Balancers, Firewalls (NGFW / L7) | HTTP, HTTPS, DNS, DHCP, SSH, TELNET, FTP, SMTP, NTP, SNMP, Syslog | 0 | [View](Layer%205%20-%20Application) |
 | 4 - Transport | Firewalls (stateful), Load Balancers | TCP, UDP, Port Numbers, Flow Control, Error Recovery | 0 | [View](Layer%204%20-%20Transport) |
 | 3 - Network | Routers, Layer 3 Switches, Firewalls | IPv4, IPv6, ICMP, IGMP, APIPA, SLAAC, BGP, OSPF, EIGRP, IS-IS, RIP, VRF, NAT, HSRP, VRRP, ACLs, Subnetting, VLSM | 0 | [View](Layer%203%20-%20Network) |
