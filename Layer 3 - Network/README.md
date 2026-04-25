@@ -30,12 +30,12 @@ The Network Layer (Layer 3) provides logical addressing and path determination t
   </tr>
   <tr>
     <td align="center">
-        <a href="/Layer%201%20-%20Physical/Physical-Connectivity-and-Interface-Status">
-          Physical Connectivity and Interface Status
+        <a href="Fixed-Length-Subnetting-and-Reachability">
+          Fixed Length Subnetting and Reachability
         </a>
     </td>
     <td>
-      Troubleshooting
+      Provisioning
     </td>
     <td>
       Power State Verification, Cable Integrity Assessment, Interface Status Validation
