@@ -47,7 +47,7 @@
 
 ### Conclusion
 The provisioning tasks required to establish inter-network connectivity were completed in the following order:
-1. **Subnetting:** 192.168.1.0/24 subdivided into four equal /26 subnets
+1. **Subnetting:** 192.168.1.0/24 subdivided into four equal /26 subnets and network diagram amended
 2. **Addressing:** IP addresses assigned to all router interfaces within their respective subnets
 3. **Activation:** Administratively down interfaces brought up with `no shutdown`
 
