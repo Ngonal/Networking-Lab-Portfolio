@@ -30,6 +30,8 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
         <a href="">
         </a>
     </td>
+    <td>
+    </td>
     <td align="center">
       <a href="">
         <img src="" width="40">
