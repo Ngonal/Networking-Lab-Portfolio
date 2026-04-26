@@ -56,6 +56,10 @@ The Network Layer (Layer 3) provides logical addressing and path determination t
   </tr>
 
   <tr>
+    <th height="50" align="left" colspan="6"></th>
+  </tr>
+
+  <tr>
       <th colspan="6">Maintenance</th>
   </tr>
   <tr>
@@ -99,6 +103,10 @@ The Network Layer (Layer 3) provides logical addressing and path determination t
     </td>
     <td>
     </td>
+  </tr>
+
+  <tr>
+    <th height="50" align="left" colspan="6"></th>
   </tr>
 
   <tr>
