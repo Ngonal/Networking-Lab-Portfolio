@@ -49,43 +49,6 @@ The provisioning tasks required to establish inter-network connectivity were com
 2. **Addressing:** IP addresses assigned to all router interfaces within their respective subnets
 3. **Activation:** Administratively down interfaces brought up with `no shutdown`
 
-## Bonus Tips
-### Tip #1 - The `show ip interface brief` command provides a quick health check of all interfaces. For diagnosing Layer 1 issues, check the link status and line protocol columns:
-- **Administratively Down / Down** — Interface is disabled with `shutdown` command
-- **Down / Down** — Possible causes include an absent or damaged cable, improperly seated connectors, incorrect cable type or pinout, or a local/remote interface or device that is powered off, misconfigured, or faulty.
-
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img width="800" src="Elements/bonus1.png" border="1">
-      </td>
-    </tr>
-    <tr>
-      <th width="800" align="left" colspan="6" style="padding: 10px 12px; background-color: #eaeef2; border-bottom: 1px solid #d0d7de; text-align: left;">
-        <i>Example: Despite issuing `no shutdown`, interface Fa0/1 remains in a down/down state because the cable is disconnected</i>
-      </th>
-    </tr>
-  </table>
-</p>
-
-> 💡 **Quick Tip(s):**  When a link fails to establish, the fault lies in the cable, local device, remote device, or **any of their respective interfaces**. Start at Layer 1 and work up:
-> 
-> **Without specialized test equipment:**
-> - Verify both cable ends are firmly seated
-> - If still down → Replace with known-good cable
->   - If link comes up → Original cable was faulty
->   - If link stays down → Investigate devices and/or interfaces
-> 
-> **With TDR/OTDR (copper/fiber cable testers):**
-> - Run TDR/OTDR first to detect opens, shorts, or impedance faults
->   - Most modern cable testers include built-in TDR/OTDR; some switches/routers have diagnostic commands
->   - If fault detected → Reseat both ends, then replace cable if issue persists
->   - If clean results (proper termination, no faults) → Skip cable replacement and go directly to device/interface investigation
->
-> **Device/interface investigation:**
-> - Check speed/duplex settings, admin status, configuration mismatches, and hardware failures on both ends
-
 ---
 
 <p align="center">
