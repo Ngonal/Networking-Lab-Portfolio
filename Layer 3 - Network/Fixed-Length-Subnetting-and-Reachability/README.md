@@ -9,7 +9,7 @@
       <sub>Cisco Packet Tracer</sub>
       <br>
       <sub>Lab Author ~ David Bombal</sub><br><br>
-      <a href="https://github.com/Ngonal/IT-Portfolio/raw/main/Layer%201%20-%20Physical/Fixed-Length-Subnetting-and-Reachability/Fixed-Length-Subnetting-and-Reachability.pkt">
+      <a href="https://github.com/Ngonal/IT-Portfolio/raw/main/Layer%203%20-%20Network/Fixed-Length-Subnetting-and-Reachability/Fixed-Length-Subnetting-and-Reachability.pkt">
         <kbd>⬇️ Download Lab File (.pkt)</kbd>
       </a>
     </td>
