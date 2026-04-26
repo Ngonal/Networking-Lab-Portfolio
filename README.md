@@ -3,7 +3,7 @@ Hands-on IT lab portfolio demonstrating full-stack technical proficiency — fro
 
 Content is structured using the **`TCP/IP 5-layer Internet model`**, with each example categorized by the highest layer it meaningfully engages. Labs/Projects are further aligned to common IT lifecycle scenarios, including **provisioning**, **maintenance**, and **troubleshooting**.
 
-A mix of simulators, emulators, and hypervisors is used based on scenario complexity, balancing accessibility with realistic system behavior. Software utilized includes, but is not limited to:
+A variety of simulators, emulators, and hypervisors is used based on scenario complexity, balancing accessibility with realistic system behavior. Software utilized includes, but is not limited to:
 <p align="center">
   <table align="center">
     <tr>
