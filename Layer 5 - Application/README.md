@@ -112,9 +112,7 @@ The Application Layer (Layer 5) is the closest layer to the end user, acting as 
 <table>
   
   <tr>
-    <th>
       Troubleshooting
-    </th>
   </tr>
   <tr>
     <th>
