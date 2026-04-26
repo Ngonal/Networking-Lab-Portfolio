@@ -41,9 +41,9 @@ A variety of simulators, emulators, and hypervisors is used based on scenario co
 
 | Layer | Devices | Protocols/Tech | Count | Examples |
 |:---|:---|:---|:--:|:--:|
-| 5 - Application | Servers, Desktops, Load Balancers, Firewalls (NGFW / L7) | LDAP, HTTP, HTTPS, NFS, DNS, DHCP, SSH, TELNET, FTP, SMTP, NTP, SNMP Syslog / SSL, TLS, AFP, LPP, NCP, NDR, XDR / ADSP, RTCP, PPTP, PAP, RPCP, SDP| 0 | [View](Layer%205%20-%20Application) |
+| 5 - Application | Servers, Desktops, Load Balancers, Firewalls (NGFW / L7) | LDAP, RDP, SIP, HTTP, HTTPS, NFS, DNS, DHCP, SSH, Telnet, FTP, SMTP, NTP, SNMP Syslog / SSL, TLS, AFP, LPP, NCP, NDR, XDR / ADSP, RTCP, PPTP, PAP, RPCP, SDP| 0 | [View](Layer%205%20-%20Application) |
 | 4 - Transport | Firewalls (Stateful), Load Balancers | TCP, UDP, SCTP, Port Numbers, Flow Control, Error Recovery | 0 | [View](Layer%204%20-%20Transport) |
-| 3 - Network (Internet) | Routers, Layer 3 (Multilayer) Switches, Firewalls (Stateless) | IPv4, IPv6, IPSec, ICMP, IGMP, APIPA, SLAAC, BGP, OSPF, EIGRP, IS-IS, RIP, VRF, NAT, MLPS, HSRP, VRRP, GLBP, ACLs, Subnetting, FLSM, VLSM | 1 | [View](Layer%203%20-%20Network) |
+| 3 - Network (Internet) | Routers, Layer 3 (Multilayer) Switches, Firewalls (Stateless) | IPv4, IPv6, IPSec, ICMP, IGMP, APIPA, SLAAC, BGP, OSPF, EIGRP, IS-IS, RIP, VRF, NAT, MLPS, HSRP, VRRP, GLBP, ACLs, Subnetting, CIDR, FLSM, VLSM | 1 | [View](Layer%203%20-%20Network) |
 | 2 - Data Link (Network Access) | Switches, Bridges, Wireless Access Points | Ethernet, MAC Addressing, VLANs, STP, PVST, DTP, VTP, ARP, NDP, CDP, LLDP, CDMA/CD, CDMA/CA, EtherChannel, LACP, PAgP, Autonegotiation | 0 | [View](Layer%202%20-%20Data%20Link) |
 | 1 - Physical | Hubs, Repeaters, Cables, Transceivers (SFPs) | Fiber, Copper, RF (Wi-Fi, Satellite), Speed, Duplex | 2 | [View](Layer%201%20-%20Physical) |
 
