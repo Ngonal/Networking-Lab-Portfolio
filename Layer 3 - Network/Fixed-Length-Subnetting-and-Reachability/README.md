@@ -39,9 +39,9 @@
 | Step | Observations & Remarks | Action Taken | Result | Image |
 |:---:|:---|:---|:---|:---:|
 | 1 | The network diagram reflects a partially updated topology | Subnetted 192.168.1.0/24 into four equal /26 subnets by borrowing two host bits: 192.168.1.0/26, 192.168.1.64/26, 192.168.1.128/26, 192.168.1.192/26 — labeled each subnet and interface accordingly | Network diagram updated to reflect the new addressing scheme | <img src="Elements/step1.png"> |
-| 2 | Assigning IP addresses to `R1`'s `Gi0/0/0` and `Se0/1/0` reveals both interfaces are administratively down — `show interfaces` confirms this | Issued `no shutdown` on both interfaces; repeated procedure for `R2` and `R3` | All interfaces assigned IP addresses within their respective subnets; all links active and OSPF adjacencies formed between routers | <img src="Elements/step2.png"> |
+| 2 | Assigning IP addresses to `R1`'s `Gi0/0/0` and `Se0/1/0` reveals both interfaces are administratively down — `show interfaces` confirms this | Issued `no shutdown` on both interfaces; repeated procedure for `R2` and `R3` | All interfaces assigned IP addresses within their respective subnets; all links active and OSPF adjacencies formed between routers according to SYSLOG messages | <img src="Elements/step2.png"> |
 | 3 | Testing connectivity from `PC5` to remote hosts and servers across both sites | Tested with `ping` via Windows Command Prompt | Communication successful — issued `write` on all updated devices to save configuration | <img src="Elements/step3.png"> |
-| 4 | Layer 7 connectivity not yet verified | Visited [Cisco.com](http://Cisco.com) via web browser | HTTP response received successfully — Application Layer confirmed operational | <img src="Elements/step4.png"> |
+| 4 | Layer 7 connectivity not yet verified | Visited Cisco.com via web browser | HTTP response received successfully — Application Layer confirmed operational | <img src="Elements/step4.png"> |
 
 ### Conclusion
 The root cause was a combination of Layer 1 failures:
