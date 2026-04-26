@@ -14,9 +14,6 @@ The Network Layer (Layer 3) provides logical addressing and path determination t
       Name
     </th>
     <th>
-      Type
-    </th>
-    <th>
       Concepts
     </th>
     <th>
@@ -35,9 +32,6 @@ The Network Layer (Layer 3) provides logical addressing and path determination t
         <a href="Fixed-Length-Subnetting-and-Reachability">
           Fixed Length Subnetting and Reachability
         </a>
-    </td>
-    <td>
-      Provisioning
     </td>
     <td>
       Subnetting Calculation and Design (FLSM), IP Address Allocation, Network Documentation, Connectivity Testing
