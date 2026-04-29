@@ -37,7 +37,7 @@ The Network Layer (Layer 3) provides logical addressing and path determination t
         </a>
     </td>
     <td>
-      Subnetting Calculation and Design (FLSM), IP Address Allocation, Network Documentation, Connectivity Testing
+      Subnetting Calculation and Design (FLSM), IP Address Allocation, Hierarchical Subnet Allocation, Address Space Conservation, Network Documentation, Connectivity Testing
     </td>
     <td align="center">
       <a href="https://www.netacad.com/resources/lab-downloads" target="_blank" rel="noopener noreferrer">
