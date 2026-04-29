@@ -56,7 +56,7 @@ The Network Layer (Layer 3) provides logical addressing and path determination t
 
   <tr>
     <td align="center">
-        <a href="Fixed-Length-Subnetting-and-Reachability">
+        <a href="Fixed-Length-Subnetting-and-Reachability-(2)">
           Fixed Length Subnetting and Reachability (2)
         </a>
     </td>
